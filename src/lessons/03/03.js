@@ -5,7 +5,7 @@ import { OrbitControls } from "three/addons/controls/OrbitControls.js"
 // Scene
 // ---------------------
 const scene = new THREE.Scene()
-scene.background = new THREE.Color(0x000000) // پس‌زمینه مشکی
+scene.background = new THREE.Color(0x000000)
 
 // ---------------------
 // Camera
